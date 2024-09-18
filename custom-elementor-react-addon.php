@@ -1,9 +1,9 @@
 <?php
 /**
  * Plugin Name: Elementor React Addon
- * Plugin URI: 
+ * Plugin URI: https://github.com/Salymka/Elementor-React
  * Author: S-CRAFT
- * Author URI: 
+ * Author URI: https://github.com/Salymka/Elementor-React
  * Description: Simple start pack for develop elementor widgets with ReactJs.
  * Version: 1.0.0
  * License: 1.0.0
